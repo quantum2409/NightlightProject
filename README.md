@@ -2,7 +2,7 @@
 
 ## EarthEngine Code link
 
-A major milstone in the project was achieved by the following [https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92](https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92).
+A major milestone in the project was achieved by the following [https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92](https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92).
 
 ## Objective 
 
