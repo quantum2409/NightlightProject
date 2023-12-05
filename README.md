@@ -1,5 +1,9 @@
 # Nightlight Analysis of factories 
 
+## EarthEngine Code link
+
+A major milstone in the project was achieved by the following [https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92](https://code.earthengine.google.com/a1a789c5f867d2d0f640d2714d0d4a92).
+
 ## Objective 
 
 There is evidence consistent with managers manipulating real activities to avoid reporting annual losses. Specifically, evidence suggesting price discounts to temporarily increase sales, **overproduction** to report lower cost of goods sold, and reduction of discretionary expenditures to improve reported margins. To understand how global firm networks operate, we need consistent information on their activities, unbiased by their reporting choices. We collect a novel dataset on the light that factories emit at night for a large sample of car manufacturing plants. We show that nightlight data can measure activity at such a granular level. We use this data to quantify the misreported data for various firms with focus on overproduction as a means of Real Earnings Management (REM).
